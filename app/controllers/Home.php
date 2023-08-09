@@ -4,6 +4,6 @@ class Home
 {
     public function index()
     {
-        echo "klas homepage";
+        echo 'home/index';
     }
 }
